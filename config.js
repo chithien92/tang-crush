@@ -1,13 +1,11 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    introTitle: 'Gửi em cô gái anh Thương!', 
+    introDesc: `Ba Vì có cả ngàn con sông chỉ uống một gáo nước....
+    Thiên hạ có vạn người đẹp nhưng anh chỉ muốn được nắm tay Thương'  
+    btnIntro: 'hihi', 
+    title: 'Nếu em còn độc thân anh muốn nhờ em giúp anh xíu 😙',
+    desc: 'Em độc thân anh cũng vậy, anh muốn nhờ em giúp anh kết thúc sự độc thân này ý em sao?',
+    btnYes: 'Em đồng ý giúp, yêu anh <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
@@ -15,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink : https://nguyenchithien/tang-crush
 }
